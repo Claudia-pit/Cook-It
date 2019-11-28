@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Recipes"
+        android:id="@+id/bottomNavigationRecipesMenuId"
+        android:icon="@drawable/chef_hat"/>
+
+    <item android:title="Shop list"
+        android:id="@+id/bottomNavigationShopListMenuId"
+        android:icon="@drawable/cookie"/>
+
+    <item android:title="Profile"
+        android:id="@+id/bottomNavigationProfileMenuId"
+        android:icon="@drawable/flower_poppy"/>
+
+
+</menu>
